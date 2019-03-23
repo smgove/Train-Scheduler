@@ -1,0 +1,27 @@
+body {
+    background:
+radial-gradient(#d1dadb 15%, transparent 16%) 0 0,
+radial-gradient(grey 15%, transparent 16%) 8px 8px,
+radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px,
+radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+background-color:#282828;
+background-size:16px 16px;
+
+}
+
+
+#TrainPhoto {
+    background-image: url("../images/Train576x384Crop.jpg");
+   
+}
+
+#h1 {
+    -webkit-text-fill-color: red;
+        text-shadow: 2px 2px grey;
+  }
+
+  #cardColor {
+      background-color: red;
+  }
+
+  
